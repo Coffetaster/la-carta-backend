@@ -1,0 +1,7 @@
+.vscode
+db.sqlite3
+.env
+images
+media
+local_gallery_image
+./lacartaBackend/settings/ storage.json
